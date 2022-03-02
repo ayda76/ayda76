@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayda76
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning react
+- 👀 I’m interested in javascript & python
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
